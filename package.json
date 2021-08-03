@@ -35,7 +35,7 @@
     "redux": "^4.0.0",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.23.0",
-    "tar": "^4.4.8"
+    "tar": "^4.4.15"
   },
   "devDependencies": {
     "extract-text-webpack-plugin": "^4.0.0-beta.0",
